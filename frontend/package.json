@@ -1,0 +1,11 @@
+{
+  "name": "yongsan-kimaeong",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "axios": "^1.4.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1"
+  }
+}
